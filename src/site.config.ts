@@ -1,7 +1,7 @@
 const siteMeta = {
-	author: "Chris Williams",
-	title: "Astro Theme Cactus",
-	description: "An opinionated starter theme for Astro",
+	author: "Kail Pony",
+	title: "Tech Blog",
+	description: "An Self Losing Ocean",
 	lang: "en-GB",
 	ogLocale: "en_GB",
 	githubUrl: "https://github.com/chrismwilliams/astro-theme-cactus",
