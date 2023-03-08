@@ -1,3 +1,10 @@
+---
+title: "通过docker-compoes来部署容器"
+description: "docker-compose安装Jenkins"
+publishDate: "9 Mar 2023"
+tags: ["test", "toc"]
+---
+
 ## **通过docker-compoes来部署容器**
 
 1. 创建 `docker_jenkins_compose`文件夹
@@ -8,7 +15,7 @@
 
    ```shell
    # docker-compose.yml
-   
+
    version: '3'
    services:                                      # 集合
      docker_jenkins:

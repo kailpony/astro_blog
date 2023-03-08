@@ -1,3 +1,10 @@
+---
+title: "Docker和Docker Compose的安装"
+description: "Docker和Docker Compose的安装"
+publishDate: "29 Mar 2023"
+tags: ["test", "toc"]
+---
+
 ## Docker和Docker Compose的安装
 
 ### 使用官方源安装，在root用户下进行
